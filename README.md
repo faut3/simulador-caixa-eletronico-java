@@ -42,7 +42,7 @@ When the user selects an option, the application processes the request and displ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/faut3/simulador-caixa-eletronico-java.git
+   git clone https://github.com/MateusAMatos/simulador-caixa-eletronico-java.git
    ```
 
 2. Open the project folder:
